@@ -2,6 +2,7 @@ require "flatui/rails/version"
 
 module Flatui
   module Rails
-    # Your code goes here...
+    class Engine < ::Rails::Engine
+    end
   end
 end
