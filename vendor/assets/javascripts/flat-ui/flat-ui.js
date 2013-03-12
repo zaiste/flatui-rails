@@ -6,5 +6,4 @@
 //= require flat-ui/components/jquery.dropkick-1.0.0.js
 //= require flat-ui/components/jquery.placeholder.js
 //= require flat-ui/components/jquery.tagsinput
-//= require flat-ui/components/lte-ie7-24
 //= require flat-ui/components/application
