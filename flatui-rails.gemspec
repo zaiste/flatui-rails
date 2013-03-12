@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Flatui::Rails::VERSION
   spec.authors       = ["Piotrek"]
   spec.email         = ["pkurek90@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{flat-ui for rails}
+  spec.summary       = %q{flat-ui for rails using sass}
   spec.homepage      = ""
   spec.license       = "MIT"
 
