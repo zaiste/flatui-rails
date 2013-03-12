@@ -1,6 +1,7 @@
 # Flatui::Rails
 
-TODO: Write a gem description
+This is the Designmodo flat ui bootstrap in sass.
+For more details see: https://github.com/iurevych/Flat-UI
 
 ## Installation
 
