@@ -18,7 +18,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Add to your application.css
+ 
+    *= require flat-ui/flat-ui
 
 ## Contributing
 
