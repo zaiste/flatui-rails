@@ -3,7 +3,6 @@
 //= require flat-ui/components/custom_checkbox_and_radio
 //= require flat-ui/components/html5shiv
 //= require flat-ui/components/icon-font-ie7
-//= require flat-ui/components/jquery.dropkick-1.0.0.js
 //= require flat-ui/components/jquery.placeholder.js
 //= require flat-ui/components/jquery.tagsinput
 //= require flat-ui/components/application
