@@ -2,7 +2,9 @@
 
 $(function () {
     // Custom selects
-    $("select").dropkick();
+    if($("select").length > 0) {
+        $("select").dropkick();    
+    }
 });
 
 $(document).ready(function() {
