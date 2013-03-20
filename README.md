@@ -23,6 +23,10 @@ Add to your application.css
  
     *= require flat-ui/flat-ui
 
+Add to your application.js
+ 
+    //= require flat-ui
+
 ## Contributing
 
 1. Fork it
