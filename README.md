@@ -21,7 +21,7 @@ Or install it yourself as:
 
 Add to your application.css
  
-    *= require flat-ui/flat-ui
+    *= require flat-ui
 
 Add to your application.js
  
