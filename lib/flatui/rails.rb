@@ -1,3 +1,4 @@
+require "bootstrap-sass"
 require "flatui/rails/version"
 
 module Flatui
